@@ -1,8 +1,8 @@
 # Land-Registry-App
-A decentralized land registry DApp using Ethereum blockchain and Solidity smart contracts for secure land registration and ownership transfer.
+A decentralized land registry DApp using Ethereum blockchain and Solidity smart contracts for secure land registration and ownership transfer.<br>
 
 # Problem Statement
-Traditional land registry systems suffer from fraud, corruption, lack of transparency, and inefficiencies due to manual record-keeping. There is a need for a secure, decentralized, and tamper-proof system that ensures land ownership authenticity and enables seamless ownership transfers.
+Traditional land registry systems suffer from fraud, corruption, lack of transparency, and inefficiencies due to manual record-keeping. There is a need for a <br>secure, decentralized, and tamper-proof system that ensures land ownership authenticity and enables seamless ownership transfers.
 This project aims to build a decentralized application (DApp) for land registry using Ethereum smart contracts to provide:         
   1.Tamper-proof land records stored on the blockchain.
   2.Secure and verifiable land ownership transfer without intermediaries.
