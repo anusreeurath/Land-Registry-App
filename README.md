@@ -3,7 +3,7 @@ A decentralized land registry DApp using Ethereum blockchain and Solidity smart 
 
 # Problem Statement
 Traditional land registry systems suffer from fraud, corruption, lack of transparency, and inefficiencies due to manual record-keeping. There is a need for a secure, decentralized, and tamper-proof system that ensures land ownership authenticity and enables seamless ownership transfers.
-This project aims to build a decentralized application (DApp) for land registry using Ethereum smart contracts to provide:
+This project aims to build a decentralized application (DApp) for land registry using Ethereum smart contracts to provide:         
   1.Tamper-proof land records stored on the blockchain.
   2.Secure and verifiable land ownership transfer without intermediaries.
   3.Transparency and trust in property transactions.
