@@ -41,6 +41,28 @@ The system will allow users to register land parcels, transfer ownership, and ve
 Register Land with input id=1,location=canada and area=200
 
 
+![RegLondon](https://github.com/user-attachments/assets/091ad50d-3441-4242-8ce3-c33f9f654183)
+Register Land with input id=2,location=london and area=500
+
+
+![get1](https://github.com/user-attachments/assets/4d09bfd3-f513-4b69-be38-4635597b9158)
+Call getLand function with input id=1
+
+
+![isLand3](https://github.com/user-attachments/assets/2892f0cd-ac07-4b74-adc3-4654a8674579)
+Call isLandRegistered function with input id=3(Not registered)
+
+
+![isLand2](https://github.com/user-attachments/assets/8821fdd9-dfd5-45e9-97cd-9f5d5a051fca)
+Call isLandRegistered function with input id=2(registered)
+
+
+![transfer21](https://github.com/user-attachments/assets/dcb984ee-e6a8-4c65-8195-d195303c4b7b)
+Call transferOwnership function with input id=2 and newOwner=address of land with id=1
+
+![get2new](https://github.com/user-attachments/assets/9c3c6653-ee36-465a-8707-8bc8f426712a)
+Call getLand function with id=2 after transferOwnership to show the new address
+
 
 
 
